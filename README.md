@@ -156,3 +156,6 @@ Potential features for future versions:
 - Calculation history
 - Dark/Light theme toggle
 - Mobile app version
+
+
+-est
