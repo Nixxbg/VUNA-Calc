@@ -120,7 +120,7 @@ function updateResult() {
     currentExpression.trim() === num.toString()
   ) {
     wordResult.innerHTML =
-      '<span class="small-label">Result in words</span><strong>' +
+      "<span class=\"small-label\">Result in words</span><strong>" +
       numberToWords(currentExpression) +
       "</strong>";
     wordArea.style.display = "flex";
